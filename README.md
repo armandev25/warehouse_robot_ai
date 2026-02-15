@@ -104,17 +104,16 @@ Runs full pipeline:
 ## Results
 
 ### Part 1 – Object Detection
-![Part 1](results/screenshots/part1_detection.png)
+![Part 1](results/part1_detection.png)
 
 ### Part 2 – Model Training & Metrics
-![Part 2](results/screenshots/part2_training_metrics.png)
+![Part 2](results/part2_training_metrics.png)
 
 ### Part 3 – Knowledge Retrieval (RAG)
-![Part 3](results/screenshots/part3_rag.png)
+![Part 3](results/part3_rag.png)
 
 ### Part 4 – Integrated System Demo
-![Part 4](results/screenshots/part4_integration.png)
-
+![Part 4](results/part4_integration.png)
 
 ---
 
@@ -155,5 +154,6 @@ Sample outputs, metrics, and demo recordings are available in the `results/` fol
 
 Arman Singh  
 AI Research Internship Submission – Warehouse Robotics Prototype
+
 
 
