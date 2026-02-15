@@ -1,0 +1,29 @@
+FRAGILE ITEMS:
+Robots must use low acceleration and reduced grip force.
+Do not stack fragile items more than two layers.
+Use padded grippers when available.
+
+HEAVY ITEMS:
+Before lifting, verify the gripper torque limits.
+Ensure load distribution is centered.
+Avoid transporting heavy items on inclined surfaces.
+
+HAZARDOUS MATERIALS:
+Perform safety scan before pickup.
+Use sealed containment mode when transporting chemicals.
+Keep distance from heat sources and sparks.
+
+ROBOT GRIPPER SPECIFICATIONS:
+Maximum payload capacity is 15 kg.
+Grip force range is adjustable between 5N and 50N.
+Soft-contact mode is recommended for delicate objects.
+
+SAFETY CHECKS BEFORE MOVEMENT:
+Confirm obstacle-free path.
+Verify object is securely held.
+Ensure emergency stop system is active.
+
+TROUBLESHOOTING:
+If object slips, reduce speed and increase grip pressure.
+If detection fails, recalibrate camera exposure.
+If arm vibration occurs, reduce movement speed.
